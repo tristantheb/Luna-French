@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-29 19:44+0200\n"
+"PO-Revision-Date: 2017-04-29 20:14+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -49,7 +49,7 @@ msgstr "Les fils cachés ont maintenant un indicateur jaune sur le côté droit"
 
 #: backstage/about.php:44
 msgid "The Mainstage won't show notifications twice anymore"
-msgstr "Le Mainstage ne montrera plus les notifications deux fois"
+msgstr "La page principale ne montrera plus les notifications deux fois"
 
 #: backstage/about.php:45
 msgid "Some BBCodes would break with certain uses of hard returns"
@@ -57,7 +57,7 @@ msgstr "Certains BBCodes rompraient avec certaines utilisations des retours"
 
 #: backstage/about.php:46
 msgid "Fixes content of spoiler-tags being unreadable in night mode"
-msgstr "Réglages du contenu des étiquettes spoiler illisibles en mode nuit"
+msgstr "Réglages du contenu des balises spoiler illisibles en mode nuit"
 
 #: backstage/about.php:47
 msgid "Editing a user will no longer change the accent color of that user"
@@ -207,7 +207,7 @@ msgstr "Nouveaux outils de notification sur la page Notification du profil"
 
 #: backstage/about.php:121
 msgid "Comments can now have admin notes that are displayed in threads"
-msgstr "Les commentaires peuvent maintenant avoir des notes d'administration qui sont affichées dans les sujets"
+msgstr "Les messages peuvent maintenant avoir des notes d'administration qui sont affichées dans les sujets"
 
 #: backstage/about.php:122
 msgid "You can now upload a header background to use in your theme and the Backstage"
@@ -307,7 +307,7 @@ msgstr "A propos de maintenant peut être traduit dans d'autres langues"
 
 #: backstage/about.php:145
 msgid "You can now directly manage a reported comment from the Backstage"
-msgstr "Vous pouvez maintenant gérer directement un commentaire signalé depuis l'Administration"
+msgstr "Vous pouvez maintenant gérer directement un message signalé depuis l'Administration"
 
 #: backstage/about.php:146
 msgid "Improved Backstage UI and night mode"
@@ -319,7 +319,7 @@ msgstr "Plusieurs améliorations sur l'accessibilité"
 
 #: backstage/about.php:148
 msgid "Luna now provides a description meta tag to prevent weird search results"
-msgstr "Luna fournit maintenant une méta-étiquette de description pour éviter les résultats de recherche étranges"
+msgstr "Luna fournit maintenant une méta-balise de description pour éviter les résultats de recherche étranges"
 
 #: backstage/about.php:149
 msgid "The editor no longer has an emoticon menu"
@@ -360,7 +360,7 @@ msgstr "fils de discussion"
 
 #: backstage/about.php:168 themes/Fifteen/objects/comment.php:9
 msgid "comments"
-msgstr "commentaires"
+msgstr "messages"
 
 #: backstage/about.php:169
 msgid "views"
@@ -484,8 +484,7 @@ msgstr "Afficher les informations sur le commentateur sous son nom d'utilisateur
 #: backstage/appearance.php:271
 msgid "Show the number of comments a user has made in threads, profile and the user list."
 msgstr ""
-"Afficher le nombre de commentaires qu'un utilisateur a effectué dans les sujets, le profil et la liste des "
-"utilisateurs."
+"Afficher le nombre de messages qu'un utilisateur a effectué dans les sujets, le profil et la liste des utilisateurs."
 
 #: backstage/appearance.php:277
 msgid "Index settings"
@@ -511,7 +510,7 @@ msgstr "Commentaires par page"
 
 #: backstage/appearance.php:295
 msgid "Default amount of comments per page"
-msgstr "Nombre de commentaires par page par défaut"
+msgstr "Nombre de messages par page par défaut"
 
 #: backstage/appearance.php:305
 msgid "Header"
@@ -841,7 +840,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer le forum<strong>%s</strong> ?"
 
 #: backstage/board.php:95
 msgid "Deleting a forum will delete all comments (if any) in that forum!"
-msgstr "La suppression d'un forum supprime tous les commentaires (le cas échéant) dans ce forum!"
+msgstr "La suppression d'un forum supprime tous les messages (le cas échéant) dans ce forum!"
 
 #: backstage/board.php:114
 msgid "No forum and category data was found to save..."
@@ -893,7 +892,7 @@ msgstr "Trier les fils par"
 
 #: backstage/board.php:313 backstage/users.php:824 themes/Fifteen/views/inbox.php:62
 msgid "Last comment"
-msgstr "Dernier commentaire"
+msgstr "Dernier message"
 
 #: backstage/board.php:314
 msgid "Thread start"
@@ -973,8 +972,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer la catégorie <strong>%s</strong> ?
 
 #: backstage/board.php:486
 msgid "Deleting a category will delete all forums and comments (if any) in this category!"
-msgstr ""
-"La suppression d'une catégorie supprime tous les sujets et les commentaires (le cas échéant) dans cette catégorie !"
+msgstr "La suppression d'une catégorie supprime tous les sujets et les messages (le cas échéant) dans cette catégorie !"
 
 #: backstage/board.php:542
 msgid "Add forum"
@@ -1064,11 +1062,11 @@ msgstr "Général"
 
 #: backstage/features.php:165 backstage/features.php:342
 msgid "Threads and comments"
-msgstr "Sujets et commentaires"
+msgstr "Sujets et messages"
 
 #: backstage/features.php:170
 msgid "Censor words in comments."
-msgstr "Censure des mots dans les commentaires."
+msgstr "Censure des mots dans les messages."
 
 #: backstage/features.php:176
 msgid "Show the number of views for each thread."
@@ -1076,7 +1074,7 @@ msgstr "Affiche le nombre de vues pour chaque sujet."
 
 #: backstage/features.php:182
 msgid "Show a label in front of the thread where users have commented."
-msgstr "Affichez une étiquette devant le sujet où les utilisateurs ont commenté."
+msgstr "Affichez une icône devant le sujet où les utilisateurs ont commenté."
 
 #: backstage/features.php:188
 msgid "User features"
@@ -1163,11 +1161,11 @@ msgstr "Universel"
 
 #: backstage/features.php:324
 msgid "Allow the use of the [center]-tag."
-msgstr "Autoriser l'utilisation du tag [center]."
+msgstr "Autoriser l'utilisation de la balise [center]."
 
 #: backstage/features.php:330
 msgid "Allow the use of the [size]-tag."
-msgstr "Autoriser l'utilisation du tag [size]."
+msgstr "Autoriser l'utilisation de la balise [size]."
 
 #: backstage/features.php:336
 msgid "Convert URLs automatically to clickable hyperlinks."
@@ -1175,11 +1173,11 @@ msgstr "Convertit les URL automatiquement en hyperliens cliquables."
 
 #: backstage/features.php:347 backstage/features.php:370
 msgid "Allow the use of the [img]-tag."
-msgstr "Autoriser l'utilisation du tag [img]."
+msgstr "Autoriser l'utilisation de la balise [img]."
 
 #: backstage/features.php:353
 msgid "Allow the use of the [spoiler]-tag."
-msgstr "Autoriser l'utilisation du tag [spoiler]."
+msgstr "Autoriser l'utilisation de la balise [spoiler]."
 
 #: backstage/features.php:359 backstage/features.php:523 backstage/features.php:528 themes/Fifteen/views/settings.php:367
 msgid "Signatures"
@@ -1235,7 +1233,7 @@ msgstr "Tout en majuscules"
 
 #: backstage/features.php:425
 msgid "Allow a comment to contain only capital letters."
-msgstr "Permettre à un commentaire de ne contenir que des lettres majuscules."
+msgstr "Permettre à un message de ne contenir que des lettres majuscules."
 
 #: backstage/features.php:431
 msgid "Allow a subject to contain only capital letters."
@@ -1247,7 +1245,7 @@ msgstr "Invités"
 
 #: backstage/features.php:442
 msgid "Require guests to supply an email address when commenting."
-msgstr "Demandez aux invités de fournir une adresse email lors de la création de commentaires."
+msgstr "Demandez aux invités de fournir une adresse email lors de la création de messages."
 
 #: backstage/features.php:452
 msgid "Avatars"
@@ -1303,7 +1301,7 @@ msgstr "Avatar de l'espace réservé par défaut"
 
 #: backstage/features.php:533
 msgid "Allow users to attach a signature to their comments."
-msgstr "Permettre aux utilisateurs de joindre une signature à leurs commentaires."
+msgstr "Permettre aux utilisateurs de joindre une signature à leurs messages."
 
 #: backstage/features.php:533
 msgid "Permissions"
@@ -1443,7 +1441,7 @@ msgstr "Permettre aux utilisateurs de créer de nouveaux sujets."
 
 #: backstage/groups.php:175
 msgid "Allow users to edit their own comments."
-msgstr "Autoriser les utilisateurs à modifier leurs propres commentaires."
+msgstr "Autoriser les utilisateurs à modifier leurs propres messages."
 
 #: backstage/groups.php:181 backstage/groups.php:457 backstage/groups.php:494 backstage/groups.php:580
 #: backstage/menu.php:117 backstage/menu.php:140 backstage/menu.php:142 backstage/moderate.php:148
@@ -1457,11 +1455,11 @@ msgstr "Supprimer"
 
 #: backstage/groups.php:186
 msgid "Allow users to delete their own comments."
-msgstr "Permettre aux utilisateurs de supprimer leurs propres commentaires."
+msgstr "Permettre aux utilisateurs de supprimer leurs propres messages."
 
 #: backstage/groups.php:192
 msgid "Allow users to delete their own threads (including any comments)."
-msgstr "Permettre aux utilisateurs de supprimer leurs propres sujets (y compris les commentaires)."
+msgstr "Permettre aux utilisateurs de supprimer leurs propres sujets (y compris les messages)."
 
 #: backstage/groups.php:198 include/draw_functions.php:720 include/draw_functions.php:748 include/draw_functions.php:926
 #: themes/Fifteen/views/soft.php:14
@@ -1470,11 +1468,11 @@ msgstr "Cacher"
 
 #: backstage/groups.php:203
 msgid "Allow users to view threads and comments that have been hidden."
-msgstr "Permettre aux utilisateurs de voir les sujets et les commentaires qui ont été cachés."
+msgstr "Permettre aux utilisateurs de voir les sujets et les messages qui ont été cachés."
 
 #: backstage/groups.php:209
 msgid "Allow users to hide comments from all users."
-msgstr "Autoriser les utilisateurs à cacher les commentaires de tous les utilisateurs."
+msgstr "Autoriser les utilisateurs à cacher les messages de tous les utilisateurs."
 
 #: backstage/groups.php:215
 msgid "Allow users to hide threads from all users."
@@ -1490,7 +1488,7 @@ msgstr "Permettre aux utilisateurs de définir leur propre titre d'utilisateur."
 
 #: backstage/groups.php:242
 msgid "Allow users to use the search feature for threads and comments."
-msgstr "Permettre aux utilisateurs d'utiliser la fonction de recherche pour les sujets et les commentaires."
+msgstr "Permettre aux utilisateurs d'utiliser la fonction de recherche pour les sujets et les messages."
 
 #: backstage/groups.php:248
 msgid "Allow users to search for other users in the user list."
@@ -1506,11 +1504,11 @@ msgstr "Autoriser les utilisateurs à envoyer des e-mails à d'autres utilisateu
 
 #: backstage/groups.php:269
 msgid "Comment flood interval"
-msgstr "Intervalle entre les commentaires"
+msgstr "Intervalle entre les messages"
 
 #: backstage/groups.php:269
 msgid "Time users have to wait between comments"
-msgstr "Le temps que l'utilisateur doit attendre entre les commentaires"
+msgstr "Le temps que l'utilisateur doit attendre entre les messages"
 
 #: backstage/groups.php:273 backstage/groups.php:282 backstage/groups.php:292 backstage/groups.php:301
 #: backstage/settings.php:400 backstage/settings.php:410
@@ -1800,7 +1798,7 @@ msgstr "Le fichier install.php existe toujours, mais doit être supprimé."
 #: backstage/index.php:192 db_update.php:733 db_update.php:818 include/draw_functions.php:300
 #: include/draw_functions.php:365 include/draw_functions.php:446
 msgid "comment"
-msgstr "commentaire"
+msgstr "message"
 
 #: backstage/index.php:193 include/draw_functions.php:364 include/draw_functions.php:445
 msgid "thread"
@@ -1851,7 +1849,7 @@ msgstr "Se souvenir de moi"
 
 #: backstage/maintenance.php:32
 msgid "Comments per cycle must be a positive integer value."
-msgstr "Les commentaires par cycle doivent être une valeur entière positive."
+msgstr "Les messages par cycle doivent être une valeur entière positive."
 
 #: backstage/maintenance.php:57
 msgid "Rebuilding search index"
@@ -1864,7 +1862,7 @@ msgstr "Reconstruction de l'index. C'est un bon moment pour prendre un café :-)
 #: backstage/maintenance.php:92
 #, php-format
 msgid "Processing comment <strong>%s</strong> …"
-msgstr "Traitement du commentaire <strong>%s</strong> ..."
+msgstr "Traitement du message <strong>%s</strong> ..."
 
 #: backstage/maintenance.php:135 db_update.php:181 include/install.php:1504
 msgid "The forums are temporarily down for maintenance. Please try again in a few minutes."
@@ -1913,11 +1911,11 @@ msgid ""
 "cycle automatically). When you have to abort the rebuilding, remember the last comment ID and enter that ID+1 in "
 "\"Starting comment ID\" if you want to continue (Uncheck \"Empty index\")."
 msgstr ""
-"Si vous modifiez quelque chose sur les sujets et les commentaires dans la base de données, vous devez reconstruire "
-"l'index de recherche. Ce processus peut prendre un certain temps et augmenter la charge du serveur pendant la "
-"reconstruction. Veillez à activer JavaScript pendant la reconstruction (pour démarrer un nouveau cycle "
-"automatiquement). Lorsque vous devez annuler la reconstruction, rappelez-vous le dernier identifiant de commentaire et "
-"entrez cette ID+1 dans \"Nom de commentaire de départ\" si vous souhaitez continuer (Décocher \"Index vide\")."
+"Si vous modifiez quelque chose sur les sujets et les messages dans la base de données, vous devez reconstruire l'index "
+"de recherche. Ce processus peut prendre un certain temps et augmenter la charge du serveur pendant la reconstruction. "
+"Veillez à activer JavaScript pendant la reconstruction (pour démarrer un nouveau cycle automatiquement). Lorsque vous "
+"devez annuler la reconstruction, rappelez-vous le dernier identifiant de message et entrez cette ID+1 dans \"Nom de "
+"message de départ\" si vous souhaitez continuer (Décocher \"Index vide\")."
 
 #: backstage/maintenance.php:225
 msgid "Comments per cycle"
@@ -1925,11 +1923,11 @@ msgstr "Commentaires par cycle"
 
 #: backstage/maintenance.php:225
 msgid "Number of comments per pageview, this prevents a timeout, 300 recommended"
-msgstr "Nombre de commentaires par page vu, cela empêche un délai d'expiration, 300 recommandés"
+msgstr "Nombre de messages par page vu, cela empêche un délai d'expiration, 300 recommandés"
 
 #: backstage/maintenance.php:231
 msgid "Starting comment ID"
-msgstr "ID du commentaire de départ"
+msgstr "ID du message de départ"
 
 #: backstage/maintenance.php:231
 msgid "The ID where to start, default is first ID found in database"
@@ -1995,15 +1993,15 @@ msgstr "Visitez un forum ou un fil et choisissez \"Modéré\" dans la barre de m
 
 #: backstage/moderate.php:102 backstage/moderate.php:168
 msgid "You must select at least one comment for split/delete."
-msgstr "Vous devez sélectionner au moins un commentaire pour diviser/supprimer."
+msgstr "Vous devez sélectionner au moins un message pour diviser/supprimer."
 
 #: backstage/moderate.php:148
 msgid "Delete comments"
-msgstr "Supprimer les commentaires"
+msgstr "Supprimer les messages"
 
 #: backstage/moderate.php:153
 msgid "Are you sure you want to delete the selected comments?"
-msgstr "Êtes-vous sûr de vouloir supprimer les commentaires sélectionnés ?"
+msgstr "Êtes-vous sûr de vouloir supprimer les messages sélectionnés ?"
 
 #: backstage/moderate.php:197 comment.php:65 edit.php:63 new_inbox.php:201
 msgid "Threads must contain a subject."
@@ -2015,7 +2013,7 @@ msgstr "Les titres des sujets ne peuvent pas dépasser 70 caractères."
 
 #: backstage/moderate.php:240
 msgid "Split comments"
-msgstr "Diviser des commentaires"
+msgstr "Diviser des messages"
 
 #: backstage/moderate.php:240 backstage/moderate.php:401
 msgid "Split"
@@ -2049,7 +2047,7 @@ msgstr "Sélectionner"
 
 #: backstage/moderate.php:383
 msgid "First comment cannot be selected for split/delete."
-msgstr "Le premier commentaire ne peut pas être sélécionner pour le diviser/supprimer."
+msgstr "Le premier message ne peut pas être sélécionner pour le diviser/supprimer."
 
 #: backstage/moderate.php:467 backstage/moderate.php:633 backstage/moderate.php:717
 msgid "You must select at least one thread for move/delete/open/close."
@@ -2116,7 +2114,7 @@ msgstr "par"
 #: backstage/moderate.php:923 include/draw_functions.php:279 include/draw_functions.php:574
 #: include/draw_functions.php:1022
 msgid "Go to the first new comment in the thread."
-msgstr "Accédez au premier nouveau commentaire dans le sujet."
+msgstr "Accédez au premier nouveau message dans le sujet."
 
 #: backstage/moderate.php:938 include/draw_functions.php:600
 msgid "reply"
@@ -2153,16 +2151,16 @@ msgstr "l n'y a pas de sujets antérieurs à %s. Veuillez diminuer la valeur de 
 
 #: backstage/prune.php:111
 msgid "Confirm prune comments"
-msgstr "Confirmer le vidage des commentaires"
+msgstr "Confirmer le vidage des messages"
 
 #: backstage/prune.php:112
 #, php-format
 msgid "Are you sure that you want to prune all comments older than %s days from %s (%s threads)."
-msgstr "Êtes-vous sûr de vouloir vider tous les commentaires plus anciens que %s jours de %s (%s sujets)."
+msgstr "Êtes-vous sûr de vouloir vider tous les messages plus anciens que %s jours de %s (%s sujets)."
 
 #: backstage/prune.php:113
 msgid "Pruning comments deletes them permanently."
-msgstr "Vider les commentaires les suppriment définitivement."
+msgstr "Vider les messages les suppriment définitivement."
 
 #: backstage/prune.php:167
 msgid "Pruning complete. Notifications pruned."
@@ -2251,11 +2249,11 @@ msgstr "Dernière connexion"
 
 #: backstage/prune.php:340
 msgid "Maximum number of comments"
-msgstr "Nombre maximum de commentaires"
+msgstr "Nombre maximum de messages"
 
 #: backstage/prune.php:340
 msgid "How many comments do you require before an users isn't pruned"
-msgstr "Combien de commentaires vous demandez avant qu'un utilisateur ne soit prugé ?"
+msgstr "Combien de messages vous demandez avant qu'un utilisateur ne soit prugé ?"
 
 #: backstage/prune.php:346
 msgid "Delete management"
@@ -2279,12 +2277,12 @@ msgstr "Supprimer uniquement quand non vérifié"
 
 #: backstage/ranks.php:30 backstage/ranks.php:63
 msgid "Minimum comments must be a positive integer value."
-msgstr "Les commentaires minimum doivent être une valeur entière positive."
+msgstr "Les messages minimum doivent être une valeur entière positive."
 
 #: backstage/ranks.php:35 backstage/ranks.php:67
 #, php-format
 msgid "There is already a rank with a minimum amount of %s comments."
-msgstr "Il existe déjà un grade avec un minimum de %s commentaires."
+msgstr "Il existe déjà un grade avec un minimum de %s messages."
 
 #: backstage/ranks.php:100
 #, php-format
@@ -2904,7 +2902,7 @@ msgstr "Trouvez plus d'utilisateurs pour cet ip"
 
 #: backstage/users.php:81
 msgid "There are currently no comments by that user in the forum."
-msgstr "Il n'y a actuellement aucun commentaire de cet utilisateur sur le forum."
+msgstr "Il n'y a actuellement aucun message de cet utilisateur sur le forum."
 
 #: backstage/users.php:99
 msgid "The supplied IP address is not correctly formatted."
@@ -2971,13 +2969,12 @@ msgid ""
 "Deleted users and/or comments cannot be restored. If you choose not to delete the comments made by this user, the "
 "comments can only be deleted manually at a later time."
 msgstr ""
-"Les utilisateurs supprimés et/ou les commentaires ne peuvent pas être restaurés. Si vous choisissez de ne pas "
-"supprimer les commentaires créés par cet utilisateur, les commentaires pourront être effacés uniquement de manière "
-"manuel plus tard."
+"Les utilisateurs supprimés et/ou les messages ne peuvent pas être restaurés. Si vous choisissez de ne pas supprimer "
+"les messages créés par cet utilisateur, les messages pourront être effacés uniquement de manière manuel plus tard."
 
 #: backstage/users.php:438
 msgid "Delete all comments and threads this user has made"
-msgstr "Supprimer tous les commentaires et sujets que cet utilisateur a créé"
+msgstr "Supprimer tous les messages et sujets que cet utilisateur a créé"
 
 #: backstage/users.php:477
 msgid ""
@@ -3059,15 +3056,15 @@ msgstr "Utilisateurs non vérifiés"
 
 #: backstage/users.php:804
 msgid "Less comments than"
-msgstr "Moins de commentaires que"
+msgstr "Moins de messages que"
 
 #: backstage/users.php:810
 msgid "More comments than"
-msgstr "Plus de commentaires que"
+msgstr "Plus de messages que"
 
 #: backstage/users.php:823
 msgid "Number of comments"
-msgstr "Nombre de commentaires"
+msgstr "Nombre de messages"
 
 #: backstage/users.php:825
 msgid "Last visit"
@@ -3087,7 +3084,7 @@ msgstr "Trouver l'adresse IP"
 
 #: backstage/users.php:848
 msgid "The IP address to search for in the comment database"
-msgstr "L'adresse IP à rechercher dans la base de données de commentaires"
+msgstr "L'adresse IP à rechercher dans la base de données de messages"
 
 #: comment.php:14 delete.php:14 edit.php:14 extern.php:74 help.php:14 index.php:14 search.php:19 thread.php:15
 #: userlist.php:14 viewforum.php:15
@@ -3098,7 +3095,7 @@ msgstr "Vous n'avez pas la permission de voir cette page."
 #, php-format
 msgid "At least %s seconds have to pass between comments. Please wait %s seconds and try commenting again."
 msgstr ""
-"Au moins %s secondes doivent passer entre les commentaires. Veuillez attendre %s secondes et essayez de commenter à "
+"Au moins %s secondes doivent passer entre les messages. Veuillez attendre %s secondes et essayez de commenter à "
 "nouveau."
 
 #: comment.php:67 edit.php:65
@@ -3121,11 +3118,11 @@ msgstr "L'adresse courriel que vous avez saisie est bannie sur ce forum. Choisis
 #: comment.php:110 edit.php:84 new_inbox.php:216
 #, php-format
 msgid "Comments cannot be longer than %s bytes."
-msgstr "Les commentaires ne peuvent pas dépasser %s bytes."
+msgstr "Les messages ne peuvent pas dépasser %s bytes."
 
 #: comment.php:112 edit.php:86
 msgid "Comments cannot contain only capital letters."
-msgstr "Les commentaires ne peuvent pas contenir que des lettres majuscules."
+msgstr "Les messages ne peuvent pas contenir que des lettres majuscules."
 
 #: comment.php:120 edit.php:94 misc.php:77 new_inbox.php:212
 msgid "You must enter a message."
@@ -3301,7 +3298,7 @@ msgstr ""
 "\n"
 "L'utilisateur \"<username>\" a commenté avec l'adresse électronique bannie : <email>\n"
 "\n"
-"Lien du commentaire : <comment_url>\n"
+"Lien du message : <comment_url>\n"
 "\n"
 "--\n"
 "<board_mailer> Mailer\n"
@@ -3468,11 +3465,11 @@ msgstr ""
 
 #: include/draw_functions.php:15 themes/Fifteen/views/inbox-new.php:33
 msgid "Comment errors"
-msgstr "Erreurs de commentaires"
+msgstr "Erreurs de messages"
 
 #: include/draw_functions.php:38 themes/Fifteen/views/inbox-new.php:49
 msgid "Comment preview"
-msgstr "Aperçu du commentaire"
+msgstr "Aperçu du message"
 
 #: include/draw_functions.php:62
 msgid "Pin thread"
@@ -3554,7 +3551,7 @@ msgstr "Gérer la note admin"
 
 #: include/draw_functions.php:189
 msgid "Add a note to this comment..."
-msgstr "Ajouter une note à ce commentaire..."
+msgstr "Ajouter une note à ce message..."
 
 #: include/draw_functions.php:309
 #, php-format
@@ -3633,13 +3630,12 @@ msgstr "Votre recherche n'a donné aucun résultat."
 
 #: include/draw_functions.php:909 themes/Fifteen/views/delete.php:17 themes/Fifteen/views/soft.php:17
 msgid "This is the first comment in the thread, the whole thread will be permanently deleted."
-msgstr ""
-"Ceci est le premier commentaire dans ce fil de discussion, tout le fil de discussion sera définitivement supprimé."
+msgstr "Ceci est le premier message dans ce fil de discussion, tout le fil de discussion sera définitivement supprimé."
 
 #: include/draw_functions.php:909 themes/Fifteen/views/delete.php:17
 msgid "The comment you have chosen to delete is set out below for you to review before proceeding."
 msgstr ""
-"Le commentaire que vous avez choisi de supprimer est présenté ci-dessous pour que vous puissiez l'examiner avant de "
+"Le message que vous avez choisi de supprimer est présenté ci-dessous pour que vous puissiez l'examiner avant de "
 "continuer."
 
 #: include/draw_functions.php:911 include/draw_functions.php:925 include/draw_functions.php:939
@@ -3659,7 +3655,7 @@ msgstr ""
 
 #: include/draw_functions.php:937 themes/Fifteen/views/reset.php:17
 msgid "This comment has been hidden. We'll unhide it again with a click on the button."
-msgstr "Ce commentaire a été caché. Nous allons le réafficher en cliquant sur le bouton."
+msgstr "Ce message a été caché. Nous allons le réafficher en cliquant sur le bouton."
 
 #: include/draw_functions.php:949
 #, php-format
@@ -3989,8 +3985,8 @@ msgid ""
 "It seems your comment consisted of empty BBCodes only. It is possible that this happened because e.g. the innermost "
 "quote was discarded because of the maximum quote depth level."
 msgstr ""
-"Il semble que votre commentaire soit composé uniquement de BBCodes vides. Il est possible que cela se produise parce "
-"que, par exemple, La citation la plus reculée a été rejetée en raison du niveau de profondeur maximum de citation."
+"Il semble que votre message soit composé uniquement de BBCodes vides. Il est possible que cela se produise parce que, "
+"par exemple, La citation la plus reculée a été rejetée en raison du niveau de profondeur maximum de citation."
 
 #: include/parser.php:62
 msgid "The quote, code, list, video, spoiler and heading BBCodes are not allowed in signatures."
@@ -4376,7 +4372,7 @@ msgstr ""
 
 #: misc.php:239
 msgid "Report comment"
-msgstr "Signaler un commentaire"
+msgstr "Signaler un message"
 
 #: misc.php:240
 msgid "Reason"
@@ -4513,7 +4509,7 @@ msgstr "Pas d'ancienne notifications."
 
 #: profile.php:49 themes/Fifteen/views/profile.php:42
 msgid "Latest comment"
-msgstr "Dernier commentaire"
+msgstr "Dernier message"
 
 #: profile.php:55 themes/Fifteen/views/profile.php:50
 msgid "Latest visit"
@@ -4689,15 +4685,15 @@ msgstr ""
 
 #: search.php:286
 msgid "There are no threads with new comments since your last visit."
-msgstr "Il n'y a pas de discussions avec de nouveaux commentaires depuis votre dernière visite."
+msgstr "Il n'y a pas de sujets avec de nouveaux messages depuis votre dernière visite."
 
 #: search.php:294
 msgid "No new comments have been made within the last 24 hours."
-msgstr "Aucun nouveau commentaire n'a été fait au cours des dernières 24 heures."
+msgstr "Aucun nouveau message n'a été fait au cours des dernières 24 heures."
 
 #: search.php:304
 msgid "There are no comments by this user in this forum."
-msgstr "Il n'y a pas de commentaires de cet utilisateur sur ce forum."
+msgstr "Il n'y a pas de messages de cet utilisateur sur ce forum."
 
 #: search.php:315
 msgid "There are no threads by this user in this forum."
@@ -4709,7 +4705,7 @@ msgstr "Cet utilisateur n'est actuellement pas abonné à aucun sujet."
 
 #: search.php:340
 msgid "There are no unanswered comments in this forum."
-msgstr "Il n'y a pas de commentaires sans réponse dans ce forum."
+msgstr "Il n'y a pas de messages sans réponse dans ce forum."
 
 #: search.php:447
 #, php-format
@@ -4934,11 +4930,11 @@ msgstr "sur"
 
 #: themes/Fifteen/objects/user.php:16
 msgid "comment since"
-msgstr "commentaire depuis"
+msgstr "message depuis"
 
 #: themes/Fifteen/views/answer.php:17
 msgid "Are you certain that this comment is the solution to your thread?"
-msgstr "Êtes-vous certain que ce commentaire est la solution à votre sujet ?"
+msgstr "Êtes-vous certain que ce message est la solution à votre sujet ?"
 
 #: themes/Fifteen/views/comment.php:14
 #, php-format
@@ -4948,7 +4944,7 @@ msgstr "Nouveau sujet dans %s"
 #: themes/Fifteen/views/comment.php:16
 #, php-format
 msgid "New comment in %s"
-msgstr "Nouveau commentaire dans %s"
+msgstr "Nouveau message dans %s"
 
 #: themes/Fifteen/views/edit.php:13
 #, php-format
@@ -5158,7 +5154,7 @@ msgstr ""
 
 #: themes/Fifteen/views/help.php:70
 msgid "You can also hide parts of your comment if you don't want to spoil its content."
-msgstr "Vous pouvez également cacher certaines parties de votre commentaire si vous ne voulez pas gâcher son contenu."
+msgstr "Vous pouvez également cacher certaines parties de votre message si vous ne voulez pas gâcher son contenu."
 
 #: themes/Fifteen/views/help.php:71 themes/Fifteen/views/help.php:74
 msgid "Spoiled text"
@@ -5257,11 +5253,11 @@ msgstr "Forums et sujets"
 
 #: themes/Fifteen/views/help.php:154
 msgid "What do the labels in front of thread titles mean?"
-msgstr "Que signifient les étiquettes en face des titres ?"
+msgstr "Que signifient les icônes en face des titres ?"
 
 #: themes/Fifteen/views/help.php:155
 msgid "You'll see that some of the threads are labeled, different labels have different meanings."
-msgstr "Vous verrez que certains des fils sont étiquetés, les différentes étiquettes ont des significations différentes."
+msgstr "Vous verrez que certains des fils sont étiquetés, les différentes icônes ont des significations différentes."
 
 #: themes/Fifteen/views/help.php:159
 msgid "Label"
@@ -5288,8 +5284,8 @@ msgid ""
 "When a you see a closed label, it means you can't comment on that thread any more, unless you have a permission that "
 "overwrites this. The thread is still available to read, though."
 msgstr ""
-"Lorsque vous voyez une étiquette fermée, cela signifie que vous ne pouvez plus commenter sur ce sujet, sauf si vous "
-"avez une autorisation. Le sujet est toujours à la lecture."
+"Lorsque vous voyez une icône fermée, cela signifie que vous ne pouvez plus commenter sur ce sujet, sauf si vous avez "
+"une autorisation. Le sujet est toujours à la lecture."
 
 #: themes/Fifteen/views/help.php:182
 msgid ""
@@ -5302,11 +5298,11 @@ msgstr ""
 
 #: themes/Fifteen/views/help.php:186
 msgid "This thread has received a new comment since you last visited the board."
-msgstr "Ce sujet a reçu un nouveau commentaire depuis votre dernière visite."
+msgstr "Ce sujet a reçu un nouveau message depuis votre dernière visite."
 
 #: themes/Fifteen/views/help.php:191
 msgid "This little dot appears when you have made a comment in this thread."
-msgstr "Ce petit point apparaît lorsque vous avez fait un commentaire dans un sujet."
+msgstr "Ce petit point apparaît lorsque vous avez fait un message dans un sujet."
 
 #: themes/Fifteen/views/help.php:196
 msgid "Smilies, signatures, avatars and images are not visible?"
@@ -5319,8 +5315,8 @@ msgid ""
 "features."
 msgstr ""
 "Vous pouvez modifier le comportement de la lecture de sujet dans vos paramètres de profil. Là vous pouvez activer les "
-"smileys, les signatures, les avatars et les images dans les commentaires, mais ils devraient être activés par défaut, "
-"à moins que votre administrateur de forum n'ait désactivé ces fonctionnalités."
+"smileys, les signatures, les avatars et les images dans les message, mais ils devraient être activés par défaut, à "
+"moins que votre administrateur de forum n'ait désactivé ces fonctionnalités."
 
 #: themes/Fifteen/views/help.php:198
 msgid "Why can't I see some threads or forums?"
@@ -5405,8 +5401,8 @@ msgid ""
 msgstr ""
 "Les options de modération sont disponibles au bas de la page. Ces fonctionnalités ne sont pas disponibles pour tous "
 "les modérateurs. Lorsque vous cliquez sur ce bouton, vous allez être redirigé vers une page où vous pouvez gérer le "
-"sujet actuel. À partir de là, vous pouvez sélectionner plusieurs commentaires pour les supprimer ou immédiatement "
-"diviser le sujet actuel."
+"sujet actuel. À partir de là, vous pouvez sélectionner plusieurs messages pour les supprimer ou immédiatement diviser "
+"le sujet actuel."
 
 #: themes/Fifteen/views/help.php:234
 msgid ""
@@ -5437,9 +5433,9 @@ msgid ""
 "permissions."
 msgstr ""
 "La page Administration vous permet de vérifier si l'utilisateur a une note d'administrateur, et vous pouvez également "
-"modifier cette note si nécessaire. Vous pouvez également modifier le nombre de commentaires de l'utilisateur. Sur "
-"cette page, l'utilisateur peut également recevoir des autorisations de modérateur par forum, mais l'utilisateur doit "
-"avoir un compte modérateur pour pouvoir utiliser ces autorisations."
+"modifier cette note si nécessaire. Vous pouvez également modifier le nombre de messages de l'utilisateur. Sur cette "
+"page, l'utilisateur peut également recevoir des autorisations de modérateur par forum, mais l'utilisateur doit avoir "
+"un compte modérateur pour pouvoir utiliser ces autorisations."
 
 #: themes/Fifteen/views/help.php:240
 msgid ""
@@ -5515,7 +5511,7 @@ msgstr "Bienvenue"
 
 #: themes/Fifteen/views/index.php:95 themes/Sunrise/views/index.php:94
 msgid "Search in comments"
-msgstr "Chercher dans les commentaires"
+msgstr "Chercher dans les messages"
 
 #: themes/Fifteen/views/index.php:129 themes/Sunrise/views/forum.php:27 themes/Sunrise/views/index.php:102
 msgid "Recent activity"
@@ -5539,7 +5535,7 @@ msgstr "Contenu de l'utilisateur"
 
 #: themes/Fifteen/views/me-delete.php:24
 msgid "Delete all comments and threads this user has made."
-msgstr "Supprimez tous les commentaires et les sujets que cet utilisateur a créé."
+msgstr "Supprimez tous les messages et les sujets que cet utilisateur a créé."
 
 #: themes/Fifteen/views/me-modals.php:13
 msgid ""
@@ -5575,8 +5571,8 @@ msgid ""
 "An avatar is a small image that will be displayed under your username in your comments. It has to be smaller than %s "
 "by %s pixels and %s bytes."
 msgstr ""
-"Un avatar est une petite image qui sera affichée sous votre nom d'utilisateur dans vos commentaires. Il doit être "
-"inférieur à %s par %s pixels et %s bytes."
+"Un avatar est une petite image qui sera affichée sous votre nom d'utilisateur dans vos message. Il doit être inférieur "
+"à %s par %s pixels et %s bytes."
 
 #: themes/Fifteen/views/me-modals.php:66
 msgid "Upload"
@@ -5636,7 +5632,7 @@ msgstr "Sujet seulement"
 
 #: themes/Fifteen/views/search-advanced.php:41
 msgid "Comment time"
-msgstr "Date du commentaires"
+msgstr "Date du message"
 
 #: themes/Fifteen/views/search-advanced.php:44
 msgid "Forum"
@@ -5664,7 +5660,7 @@ msgstr "Téléchargez une image pour vous représenter"
 
 #: themes/Fifteen/views/settings.php:109
 msgid "Write a small piece to attach to every comment you make"
-msgstr "Écrivez un petit message à joindre à chaque commentaire que vous postez"
+msgstr "Écrivez un petit message à joindre à chaque message que vous postez"
 
 #: themes/Fifteen/views/settings.php:112
 #, php-format
@@ -5729,7 +5725,7 @@ msgstr "Cachez votre adresse e-mail et refusez le courrier électronique par for
 
 #: themes/Fifteen/views/settings.php:279
 msgid "Include a plain text version of new comments in subscription notification emails."
-msgstr "Inclure une version en texte brut de nouveaux commentaires dans la notification d'abonnement par courriels."
+msgstr "Inclure une version en texte brut de nouveaux messages dans la notification d'abonnement par courriels."
 
 #: themes/Fifteen/views/settings.php:286
 msgid "Automatically subscribe to every thread you comment in."
@@ -5753,11 +5749,11 @@ msgstr "Google+"
 
 #: themes/Fifteen/views/settings.php:352
 msgid "Show user avatars with their comments."
-msgstr "Montrer les avatars des utilisateurs avec leurs commentaires."
+msgstr "Montrer les avatars des utilisateurs avec leurs messages."
 
 #: themes/Fifteen/views/settings.php:359
 msgid "Show images in comments."
-msgstr "Afficher les images dans les commentaires."
+msgstr "Afficher les images dans les messages."
 
 #: themes/Fifteen/views/settings.php:372
 msgid "Show user signatures."
@@ -5804,9 +5800,9 @@ msgid ""
 "The comment you have chosen to delete is set out below for you to review before proceeding. Deleting this comment is "
 "not permanent. If you want to delete a comment permanently, please use delete instead."
 msgstr ""
-"Le commentaire que vous avez choisi de supprimer est présenté ci-dessous pour que vous puissiez le passer en revue "
-"avant de continuer. Supprimer ce commentaire n'est pas permanent. Si vous souhaitez supprimez un commentaire en "
-"permanence, utilisez plutôt la suppression."
+"Le message que vous avez choisi de supprimer est présenté ci-dessous pour que vous puissiez le passer en revue avant "
+"de continuer. Supprimer ce message n'est pas permanent. Si vous souhaitez supprimez un message en permanence, utilisez "
+"plutôt la suppression."
 
 #: themes/Fifteen/views/thread.php:29 themes/Fifteen/views/thread.php:54
 msgid "Show all"
@@ -5838,7 +5834,7 @@ msgstr "Non important"
 
 #: themes/Fifteen/views/unsolved.php:16
 msgid "Are you certain that this comment isn't the solution to your thread?"
-msgstr "Êtes-vous certain que ce commentaire n'est pas la solution à votre sujet ?"
+msgstr "Êtes-vous certain que ce message n'est pas la solution à votre sujet ?"
 
 #: themes/Fifteen/views/users.php:21
 msgid "Sort by username"
@@ -5850,11 +5846,11 @@ msgstr "Trier par date d'inscription"
 
 #: themes/Fifteen/views/users.php:23
 msgid "Sort by number of comments"
-msgstr "Trier par nombre de commentaires"
+msgstr "Trier par nombre de messages"
 
 #: themes/Sunrise/objects/thread.php:4
 msgid "Latest comment on"
-msgstr "Dernier commentaire sur"
+msgstr "Dernier message sur"
 
 #: themes/Sunrise/objects/thread2.php:5
 msgid "In"
