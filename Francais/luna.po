@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-29 23:56+0200\n"
+"PO-Revision-Date: 2017-04-30 00:27+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -331,7 +331,7 @@ msgstr "La base de code ne supporte plus PHP 5.2"
 
 #: backstage/about.php:151
 msgid "Notifications can no longer be marked as read/trashed from the fly-out"
-msgstr "Les notifications ne peuvent plus être marquées comme lues / détruites par le tooltip"
+msgstr "Les notifications ne peuvent plus être marquées comme lues/détruites par le menu déroulant"
 
 #: backstage/about.php:152
 msgid "You can no longer manage the database from the Backstage"
@@ -527,8 +527,8 @@ msgid ""
 "Show a fly-out when clicking the notification icon instead of going to the notification page. Disabling this feature "
 "might improve performance."
 msgstr ""
-"Affichez un fly-out lorsque vous cliquez sur l'icône de notification au lieu d'aller à la page de notification. La "
-"désactivation de cette fonctionnalité pourrait améliorer les performances."
+"Affichez un menu déroulant lorsque vous cliquez sur l'icône de notification au lieu d'aller à la page de notification. "
+"La désactivation de cette fonctionnalité pourrait améliorer les performances."
 
 #: backstage/appearance.php:322 backstage/bans.php:418 backstage/features.php:205 backstage/groups.php:237
 #: backstage/header.php:180 backstage/users.php:751 search.php:443 search.php:506 search.php:519
@@ -4914,7 +4914,7 @@ msgstr "Uploader l'avatar"
 
 #: settings.php:833
 msgid "No signature currently stored in profile."
-msgstr "Pas de signature actuellement stockée en profil."
+msgstr "Pas de signature actuellement sur votre profil."
 
 #: themes/Fifteen/objects/comment.php:8
 #, php-format
