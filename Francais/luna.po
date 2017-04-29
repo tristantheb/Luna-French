@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-30 00:27+0200\n"
+"PO-Revision-Date: 2017-04-30 00:38+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -45,7 +45,7 @@ msgstr "Nouveau"
 
 #: backstage/about.php:43
 msgid "Hidden threads now have a yellow indicator on the right hand side"
-msgstr "Les fils cachés ont maintenant un indicateur jaune sur le côté droit"
+msgstr "Les sujets cachés ont maintenant un indicateur jaune sur le côté droit"
 
 #: backstage/about.php:44
 msgid "The Mainstage won't show notifications twice anymore"
@@ -713,7 +713,7 @@ msgstr "Quand le ban expire, laisser vide pour manuellement"
 
 #: backstage/bans.php:139 backstage/bans.php:449 backstage/bans.php:455
 msgid "(yyyy-mm-dd)"
-msgstr "(dd-mm-yyyy)"
+msgstr "(jj-mm-aaaa)"
 
 #: backstage/bans.php:164
 msgid "You must enter either a username, an IP address or an email address (at least)."
@@ -741,7 +741,7 @@ msgstr "Vous avez entré une date d'expiration invalide."
 
 #: backstage/bans.php:232 backstage/bans.php:235 backstage/users.php:493 backstage/users.php:496
 msgid "The format should be YYYY-MM-DD and the date must be at least one day in the future."
-msgstr "Le format doit être DD-MM-YYYY et la date doit être d'au moins un jour dans le futur."
+msgstr "Le format doit être JJ-MM-AAAA et la date doit être d'au moins un jour dans le futur."
 
 #: backstage/bans.php:341 backstage/users.php:40 backstage/users.php:49 backstage/users.php:121 backstage/users.php:650
 msgid "Search Results"
@@ -888,7 +888,7 @@ msgstr "Catégorie"
 
 #: backstage/board.php:310
 msgid "Sort threads by"
-msgstr "Trier les fils par"
+msgstr "Trier les sujets par"
 
 #: backstage/board.php:313 backstage/users.php:824 themes/Fifteen/views/inbox.php:62
 msgid "Last comment"
@@ -1989,7 +1989,7 @@ msgstr "Modérer le contenu"
 
 #: backstage/moderate.php:59
 msgid "Visit a forum or thread and choose \"Moderate\" in the moderator bar to moderate content."
-msgstr "Visitez un forum ou un fil et choisissez \"Modéré\" dans la barre de modération pour modérer le contenu."
+msgstr "Visitez un forum ou un sujet et choisissez \"Modérer\" dans la barre de modération pour modérer le contenu."
 
 #: backstage/moderate.php:102 backstage/moderate.php:168
 msgid "You must select at least one comment for split/delete."
@@ -5254,7 +5254,7 @@ msgstr "Que signifient les icônes en face des titres ?"
 
 #: themes/Fifteen/views/help.php:155
 msgid "You'll see that some of the threads are labeled, different labels have different meanings."
-msgstr "Vous verrez que certains des fils sont étiquetés, les différentes icônes ont des significations différentes."
+msgstr "Vous verrez que certains des sujets sont étiquetés, les différentes icônes ont des significations différentes."
 
 #: themes/Fifteen/views/help.php:159
 msgid "Label"
@@ -5290,7 +5290,7 @@ msgid ""
 "show it. The original forum where this thread was located in, won't show and thread stats anymore."
 msgstr ""
 "Ce sujet a été déplacé vers un autre forum. Les administrateurs et les modérateurs peuvent choisir de montrer cette "
-"notification ou simplement ne pas la montrer. Le forum d'origine sur lequel ce fil était situé, ne s'affiche plus et "
+"notification ou simplement ne pas la montrer. Le forum d'origine sur lequel ce sujet était situé, ne s'affiche plus et "
 "ne le répertorie plus dans les statistiques."
 
 #: themes/Fifteen/views/help.php:186
