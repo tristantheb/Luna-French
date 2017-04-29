@@ -6,4 +6,4 @@ The French folder does not use the "ç" character because of a Luna bug that doe
 Make sure that the name of your file is "French" and not "French" or your forum will refuse the translation.
 
 **GitHub :** https://github.com/tristantheb/Luna-French \
-**BitBucket** https://bitbucket.org/tristanthebProd/luna-french
+**BitBucket :** https://bitbucket.org/tristanthebProd/luna-french
