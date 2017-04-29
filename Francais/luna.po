@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-29 20:14+0200\n"
+"PO-Revision-Date: 2017-04-29 22:34+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -506,7 +506,7 @@ msgstr "Nombre de sujets par page par défaut"
 
 #: backstage/appearance.php:295 themes/Fifteen/views/settings.php:401
 msgid "Comments per page"
-msgstr "Commentaires par page"
+msgstr "Messages par page"
 
 #: backstage/appearance.php:295
 msgid "Default amount of comments per page"
@@ -1225,7 +1225,7 @@ msgstr "Nombre de [quote] maximum utilisé dans un [quote]"
 
 #: backstage/features.php:414
 msgid "Commenting"
-msgstr "Commentaire"
+msgstr "Message"
 
 #: backstage/features.php:420 backstage/features.php:540
 msgid "All caps"
@@ -1763,7 +1763,7 @@ msgstr "Supprimé"
 #: backstage/index.php:130 backstage/reports.php:71 backstage/reports.php:109
 #, php-format
 msgid "Comment #%s"
-msgstr "Commentaire #%s"
+msgstr "Message #%s"
 
 #: backstage/index.php:146 backstage/reports.php:96
 msgid "There are no new reports."
@@ -1919,7 +1919,7 @@ msgstr ""
 
 #: backstage/maintenance.php:225
 msgid "Comments per cycle"
-msgstr "Commentaires par cycle"
+msgstr "Messages par cycle"
 
 #: backstage/maintenance.php:225
 msgid "Number of comments per pageview, this prevents a timeout, 300 recommended"
@@ -2208,7 +2208,7 @@ msgstr "Nouvelles notifications"
 #: themes/Fifteen/views/search-advanced.php:56 themes/Fifteen/views/settings.php:346
 #: themes/Fifteen/views/settings.php:531
 msgid "Comments"
-msgstr "Commentaires"
+msgstr "Messages"
 
 #: backstage/prune.php:264
 msgid "The number of days old a thread must be to be pruned"
@@ -3618,7 +3618,7 @@ msgstr "Enregistré depuis"
 
 #: include/draw_functions.php:823
 msgid "Comments:"
-msgstr "Commentaires :"
+msgstr "Messages :"
 
 #: include/draw_functions.php:833
 msgid "PM"
@@ -4715,7 +4715,7 @@ msgstr "Sujets par %s"
 #: search.php:449
 #, php-format
 msgid "Comments by %s"
-msgstr "Commentaires par %s"
+msgstr "Messages par %s"
 
 #: search.php:460
 #, php-format
@@ -5620,11 +5620,11 @@ msgstr "Auteur"
 
 #: themes/Fifteen/views/search-advanced.php:34
 msgid "Comment text and thread subject"
-msgstr "Commentaire et sujet"
+msgstr "Message et sujet"
 
 #: themes/Fifteen/views/search-advanced.php:35
 msgid "Comment text only"
-msgstr "Commentaire seulement"
+msgstr "Message seulement"
 
 #: themes/Fifteen/views/search-advanced.php:36
 msgid "Thread subject only"
