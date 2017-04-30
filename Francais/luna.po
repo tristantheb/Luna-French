@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-30 00:38+0200\n"
+"PO-Revision-Date: 2017-04-30 13:05+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -32,7 +32,7 @@ msgstr "Fixé"
 
 #: backstage/about.php:35
 msgid "Fixes an issue where resetting the password would fail"
-msgstr "Corrige un problème où la réinitialisation du mot de passe échouerait"
+msgstr "Correction d'un problème où la réinitialisation du mot de passe échouerait"
 
 #: backstage/about.php:43 backstage/about.php:115 backstage/about.php:116 backstage/about.php:117 backstage/about.php:118
 #: backstage/about.php:119 backstage/about.php:120 backstage/about.php:121 backstage/about.php:122
@@ -69,7 +69,7 @@ msgstr "Correction du tri de la liste d'utilisateurs sur la deuxième page"
 
 #: backstage/about.php:49
 msgid "Fixes moderator forums being unavailable in the profile admin settings"
-msgstr "Corrections pour le modérateur des forums étant disponible dans les paramètres d'administration de profil"
+msgstr "Correction pour le modérateur des forums étant disponible dans les paramètres d'administration de profil"
 
 #: backstage/about.php:50
 msgid "Fixes an undisclosed security issue"
@@ -147,11 +147,11 @@ msgstr "Un problème avec la connexion a été résolu"
 
 #: backstage/about.php:92
 msgid "Fixes the password reset link which was broken in certain situations"
-msgstr "Corrige le lien de réinitialisation du mot de passe qui a été rompu dans certaines situations"
+msgstr "Correction du lien de réinitialisation du mot de passe qui a été rompu dans certaines situations"
 
 #: backstage/about.php:93
 msgid "Fixes wrong avatars in Inbox conversations"
-msgstr "Corrige les mauvais avatars dans les conversations de la boîte de réception"
+msgstr "Correction des mauvais avatars dans les conversations de la boîte de réception"
 
 #: backstage/about.php:101
 msgid "Font Awesome has been updated to version 4.6.3"
@@ -271,7 +271,7 @@ msgstr "Changé"
 
 #: backstage/about.php:136
 msgid "Revamped search forms for users and bans, including responsive design"
-msgstr "Formulaires de recherche améliorés pour les utilisateurs et les interdictions, y compris le design réactif"
+msgstr "Formulaires de recherche améliorés pour les utilisateurs et les banissements, y compris le design réactif"
 
 #: backstage/about.php:137
 msgid "The Backstage has a whole new structure"
@@ -283,11 +283,11 @@ msgstr "La structure de fichier de Luna a été mise à jour"
 
 #: backstage/about.php:139
 msgid "You can now see what's a subforum and edit more settings in board management"
-msgstr "Vous pouvez maintenant voir ce qui est un sous-titre et modifier d'autres paramètres dans la gestion du conseil"
+msgstr "Vous pouvez maintenant voir ce qui est un sous-forum et modifier d'autres paramètres dans la gestion du forum"
 
 #: backstage/about.php:140
 msgid "Users can now disable or enable First Run from their profile"
-msgstr "Les utilisateurs peuvent maintenant désactiver ou activer First Run à partir de leur profil"
+msgstr "Les utilisateurs peuvent maintenant désactiver ou activer le cadre \"Première Fois\" à partir de leur profil"
 
 #: backstage/about.php:141
 msgid "The editor will now put items under a button if the screen becomes to small"
@@ -295,7 +295,7 @@ msgstr "L'éditeur va maintenant mettre des objets sous un bouton si l'écran de
 
 #: backstage/about.php:142
 msgid "When you have a notification, the icon will animate"
-msgstr "Lorsque vous avez une notification, l'icône animera"
+msgstr "Lorsque vous avez une notification, l'icône s'animera"
 
 #: backstage/about.php:143
 msgid "Advanced search has an improved UI"
@@ -303,7 +303,7 @@ msgstr "La recherche avancée a une UI améliorée"
 
 #: backstage/about.php:144
 msgid "About can now be translated to other languages"
-msgstr "A propos de maintenant peut être traduit dans d'autres langues"
+msgstr "À propos peut maintenant être traduit dans d'autres langues"
 
 #: backstage/about.php:145
 msgid "You can now directly manage a reported comment from the Backstage"
@@ -319,7 +319,7 @@ msgstr "Plusieurs améliorations sur l'accessibilité"
 
 #: backstage/about.php:148
 msgid "Luna now provides a description meta tag to prevent weird search results"
-msgstr "Luna fournit maintenant une méta-balise de description pour éviter les résultats de recherche étranges"
+msgstr "Luna fournit maintenant une balise meta de description pour éviter les résultats de recherche étranges"
 
 #: backstage/about.php:149
 msgid "The editor no longer has an emoticon menu"
@@ -331,7 +331,7 @@ msgstr "La base de code ne supporte plus PHP 5.2"
 
 #: backstage/about.php:151
 msgid "Notifications can no longer be marked as read/trashed from the fly-out"
-msgstr "Les notifications ne peuvent plus être marquées comme lues/détruites par le menu déroulant"
+msgstr "Les notifications ne peuvent plus être marquées comme lues/détruites depuis le menu déroulant"
 
 #: backstage/about.php:152
 msgid "You can no longer manage the database from the Backstage"
@@ -396,11 +396,11 @@ msgstr "Vous n'avez pas sélectionné un fichier pour le téléchargement."
 
 #: backstage/appearance.php:107 backstage/appearance.php:123
 msgid "The file you tried to upload is not of an allowed type. Allowed types are jpeg and png."
-msgstr "Le fichier que vous avez essayé de télécharger n'est pas un type autorisé. Les types autorisés sont .jpg et .png"
+msgstr "Le fichier que vous avez essayé d'uploader n'est pas un type autorisé. Les types autorisés sont .jpg et .png"
 
 #: backstage/appearance.php:111 backstage/features.php:124 backstage/settings.php:198 settings.php:512
 msgid "The server was unable to save the uploaded file. Please contact the forum administrator at"
-msgstr "Le serveur n'a pas pu enregistrer le fichier téléchargé. Veuillez contacter l'administrateur du forum"
+msgstr "Le serveur n'a pas pu enregistrer le fichier uploadé. Veuillez contacter l'administrateur du forum"
 
 #: backstage/appearance.php:134 backstage/features.php:135 backstage/settings.php:209 settings.php:540
 msgid "An unknown error occurred. Please try again."
@@ -430,7 +430,7 @@ msgstr "Sauvegarder"
 
 #: backstage/appearance.php:183
 msgid "Accents"
-msgstr "Personnalisation"
+msgstr "Personnalisations"
 
 #: backstage/appearance.php:188
 msgid "Allow users to set their own accent color."
@@ -630,14 +630,14 @@ msgid ""
 "The user %s is an administrator and can't be banned. If you want to ban an administrator, you must first demote him/"
 "her."
 msgstr ""
-"L'utilisateur %s est un administrateur et ne peut pas être bannis. Si vous souhaitez bannir un administrateur, vous "
+"L'utilisateur %s est un administrateur et ne peut pas être banni. Si vous souhaitez bannir un administrateur, vous "
 "devez d'abord le rétrograder."
 
 #: backstage/bans.php:55 backstage/bans.php:181
 #, php-format
 msgid "The user %s is a moderator and can't be banned. If you want to ban a moderator, you must first demote him/her."
 msgstr ""
-"L'utilisateur %s est un modérateur et ne peut pas être bannis. Si vous souhaitez bannir un administrateur, vous devez "
+"L'utilisateur %s est un modérateur et ne peut pas être banni. Si vous souhaitez bannir un administrateur, vous devez "
 "d'abord le rétrograder."
 
 #: backstage/bans.php:96
@@ -721,7 +721,7 @@ msgstr "Vous devez entrer un nom d'utilisateur, une adresse IP ou une adresse em
 
 #: backstage/bans.php:166
 msgid "The guest user cannot be banned."
-msgstr "Un visiteur ne peut pas être bannis."
+msgstr "Un visiteur ne peut pas être banni."
 
 #: backstage/bans.php:199 backstage/bans.php:211
 msgid "You entered an invalid IP/IP-range."
@@ -901,7 +901,7 @@ msgstr "Début du sujet"
 #: backstage/board.php:315 comment.php:533 edit.php:135 include/draw_functions.php:1076 misc.php:134 new_inbox.php:393
 #: themes/Fifteen/views/comment.php:42 themes/Fifteen/views/inbox-new.php:79 themes/Fifteen/views/search-advanced.php:43
 msgid "Subject"
-msgstr "Sujet"
+msgstr "Objet"
 
 #: backstage/board.php:320 backstage/board.php:664 backstage/board.php:670 backstage/board.php:719
 #: backstage/board.php:725
@@ -2980,13 +2980,13 @@ msgstr "Supprimer tous les messages et sujets que cet utilisateur a créé"
 msgid ""
 "Administrators cannot be banned. In order to ban administrators, you must first move them to a different user group."
 msgstr ""
-"Les administrateurs ne peuvent pas être bannis. Pour bannir les administrateurs, vous devez d'abord les transférer "
-"vers un autre groupe d'utilisateurs."
+"Les administrateurs ne peuvent pas être banni. Pour bannir les administrateurs, vous devez d'abord les transférer vers "
+"un autre groupe d'utilisateurs."
 
 #: backstage/users.php:482
 msgid "Moderators cannot be banned. In order to ban moderators, you must first move them to a different user group."
 msgstr ""
-"Les modérateurs ne peuvent pas être bannis. Afin de bannir les modérateurs, vous devez d'abord les transférer vers un "
+"Les modérateurs ne peuvent pas être banni. Afin de bannir les modérateurs, vous devez d'abord les transférer vers un "
 "groupe d'utilisateurs différent."
 
 #: backstage/users.php:542
@@ -3336,7 +3336,7 @@ msgstr "Une mise à jour est prête à être installée"
 
 #: db_update.php:185
 msgid "Start update"
-msgstr "Start update"
+msgstr "Démarrer la mise a jour"
 
 #: db_update.php:185
 msgid "Update Luna"
@@ -3470,7 +3470,7 @@ msgstr "Aperçu du message"
 
 #: include/draw_functions.php:62
 msgid "Pin thread"
-msgstr "Épingler le sujet"
+msgstr "Sujet épinglé"
 
 #: include/draw_functions.php:71
 msgid "Mute edit"
@@ -3531,7 +3531,7 @@ msgstr "Liste"
 
 #: include/draw_functions.php:109
 msgid "List item"
-msgstr "Ajouter un point à la liste"
+msgstr "Élément de la liste"
 
 #: include/draw_functions.php:127
 msgid "Start typing..."
