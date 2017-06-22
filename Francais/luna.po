@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Luna 2.0\n"
 "POT-Creation-Date: 2016-11-23 15:08+0100\n"
-"PO-Revision-Date: 2017-04-30 13:05+0200\n"
+"PO-Revision-Date: 2017-06-22 13:28+0200\n"
 "Last-Translator: tristantheb\n"
 "Language-Team: tristantheb Production\n"
 "Language: fr_FR\n"
@@ -4919,7 +4919,7 @@ msgstr "Pas de signature actuellement sur votre profil."
 #: themes/Fifteen/objects/comment.php:8
 #, php-format
 msgid "By %s"
-msgstr "Pas %s"
+msgstr "Par %s"
 
 #: themes/Fifteen/objects/comment.php:8
 msgid "on"
